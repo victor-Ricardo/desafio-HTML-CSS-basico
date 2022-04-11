@@ -1,0 +1,24 @@
+
+.tabela-moda td{
+    color: #fff;
+    background-color: #424250;
+    width: 100px;
+    text-align: center;
+}
+
+.tabela-moda th{
+    background-color: #BB86FC;
+    color: #fff;
+}
+
+.tabela-casa td{
+    color: #fff;
+    background-color: #424250;
+    width: 100px;
+    text-align: center;
+}
+
+.tabela-casa th{
+    background-color: #00C4B4;
+    color: #fff;
+}
